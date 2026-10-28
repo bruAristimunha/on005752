@@ -1,0 +1,78 @@
+{
+  "SourceGitCommit": "b37b2cd5537e0f829f1b554d432affc450b6ab09",
+  "Derivation": "TaskName is the literal existing BIDS filename task identifier, not an inferred experiment description. All original tracked entries remain unchanged.",
+  "AddedSidecars": [
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-airpuff_run-01_meg.json",
+      "task_token": "airpuff",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-airpuff_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "dc0c90728344a8c9653ce3d12338e792b21eb4c81e0878c62014b6a676ea9849"
+    },
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-artifact_run-01_meg.json",
+      "task_token": "artifact",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-artifact_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "1e91226e953187f594169a397dc8c8c3460fd05cc19c7bb465221c30d03744af"
+    },
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-gonogo_run-01_meg.json",
+      "task_token": "gonogo",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-gonogo_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f6efdb7122020fcccb5377b0bada5ae6399280d8ac2a4f98b494eaea11167e5e"
+    },
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-haririhammer_run-01_meg.json",
+      "task_token": "haririhammer",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-haririhammer_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "c1f0f35a2b6129c095126579fb43e1a4402f215e0701169e64d76698d6803dcf"
+    },
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-movie_run-01_meg.json",
+      "task_token": "movie",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-movie_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "9966b95c11ef2914729a910b091f2aef25d89c5ce8c395ab1ab36bf71555ab4f"
+    },
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-oddball_run-01_meg.json",
+      "task_token": "oddball",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-oddball_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "955bd8e0cf1677b2ad264c32a3e7d67762c3e31e8584d83a4b4423c4032f2f04"
+    },
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-rest_run-01_meg.json",
+      "task_token": "rest",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-rest_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "925343c4c2c11a9d1aea64c3f824a451e54d64ad4b3586f8a6dd28833d540226"
+    },
+    {
+      "path": "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-sternberg_run-01_meg.json",
+      "task_token": "sternberg",
+      "source_files": [
+        "sub-ON97451/ses-01/meg/sub-ON97451_ses-01_task-sternberg_run-01_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f7aff8111137f2ff16916c2061313c6992b4c86e792e33e0dd3ad40f8c26bb4f"
+    }
+  ]
+}
